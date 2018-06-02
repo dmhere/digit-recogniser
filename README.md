@@ -1,6 +1,6 @@
 # HandwrittenDigitRecognition
 Required Libraries -
-Keras with TensorFlow backend
+keras with TensorFlow backend
 openCV
 Python version used - 3.5
 
